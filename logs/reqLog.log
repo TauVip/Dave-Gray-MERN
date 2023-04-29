@@ -1,3 +1,12 @@
 20230415	12:26:06	c8cdd26b-3042-4992-a4ab-611c594b4e11	GET	/	undefined
 20230415	12:26:06	ec4cafe8-2e62-4cf8-bd6b-52b33d126b9a	GET	/css/style.css	undefined
 20230415	12:26:07	3f53ba37-d345-434a-a434-8eb80a2e1fbc	GET	/favicon.ico	undefined
+20230419	12:22:02	1d0ebce1-c10d-4fd6-b508-1943aad3c825	OPTIONS	/	https://mail.google.com
+20230419	12:22:02	2ece2548-54bf-40a6-850f-d1d6cb15000f	GET	/	https://mail.google.com
+20230419	14:10:45	b35da79b-fc7f-416f-87f4-9cd686f07cff	OPTIONS	/	https://mail.google.com
+20230419	14:10:45	4ebb84ad-6efc-4452-a90f-db64f163b17f	GET	/	https://mail.google.com
+20230419	14:11:11	005261f5-66da-4817-b6f6-3c3b87c24774	OPTIONS	/	https://dzen.ru
+20230419	14:11:11	3880ee79-cef3-4697-81df-b0cd07cf1468	GET	/	https://dzen.ru
+20230419	14:11:48	4a39b1f7-9cfd-469b-9267-e5e7d9294d7d	OPTIONS	/	https://www.nationalbank.kz
+20230419	14:11:48	5e73bcbf-c685-418e-b312-53f1d0ee0f4d	GET	/	https://www.nationalbank.kz
+20230419	14:11:51	5438ea3f-4b4a-4ff0-aea5-c9119260064e	GET	/	https://www.nationalbank.kz
